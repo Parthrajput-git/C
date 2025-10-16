@@ -1,4 +1,4 @@
-// This is a first C program
+// This is a first C program.
 # include<stdio.h>
 int main(){
     printf("Hello World");
